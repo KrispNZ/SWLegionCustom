@@ -11,7 +11,7 @@
           "points": ,
           "speed": 2,
           "upgrades": {
-            "Force": 2,
+            "Force": 3,
             "Command": 1,
             "Training": 1
           },
