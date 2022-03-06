@@ -5,7 +5,7 @@
         {
           "name": "Mace Windu",
           "title": "Master Jedi",
-          "image": "",
+          "image": "https://drive.google.com/file/d/1grXaLegGVnb_oS7C2uKHbkOVYjukVJ57/view",
           "size": "small",
           "type": "Trooper",
           "points": ,
@@ -24,26 +24,40 @@
           "commands": [
             {
               "name": "This Party's Over",
-              "image": "",
+              "image": "https://drive.google.com/file/d/1jPKsriw1WKG3hVzcWY0yxBhR-kr6j_J_/view",
               "pip": 1
             },
             {
-              "name": "Keepers of the Peace",
-              "image": "",
+              "name": "Shatterpoint",
+              "image": "https://drive.google.com/file/d/1O-BM59WvH746qsKDQqAFM14v0ak7wnbO/view",
               "pip": 2
             },
             {
-              "name": "Shatterpoint",
-              "image": "",
+              "name": "Keepers of the Peace",
+              "image": "https://drive.google.com/file/d/1TmEq3_IlQrfQJj1sONnW5QORz7QWhltk/view",
               "pip": 3
             }
           ]
+          "required": ["He's Too Dangerous To Be Left Alive"]
         }
       ]
     }
   },
 
-  "upgrades": {},
+  "upgrades": {
+    "Flaw": [
+      {
+       "name": "He's Too Dangerous To Be Left Alive",
+       "image": "https://drive.google.com/file/d/17zYFKsQbjDqFGxfoCU46dadEeN6GOZbG/view",
+       "points": 0,
+       "restrictions": {
+         "include": {
+           "unit": ["Mace Windu"]
+         }
+       }
+      }
+    ]
+  },
   "battlefield": {},
   "commands": {}
 }
