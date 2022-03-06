@@ -5,7 +5,7 @@
         {
           "name": "Mace Windu",
           "title": "Master Jedi",
-          "image": "https://drive.google.com/file/d/1grXaLegGVnb_oS7C2uKHbkOVYjukVJ57/view",
+          "image": "https://i.imgur.com/lbcfMEQ.png",
           "size": "small",
           "type": "Trooper",
           "points":205 ,
@@ -24,17 +24,17 @@
           "commands": [
             {
               "name": "This Party's Over",
-              "image": "https://drive.google.com/file/d/1jPKsriw1WKG3hVzcWY0yxBhR-kr6j_J_/view",
+              "image": "https://i.imgur.com/OKYdl7L.png",
               "pip": 1
             },
             {
               "name": "Shatterpoint",
-              "image": "https://drive.google.com/file/d/1O-BM59WvH746qsKDQqAFM14v0ak7wnbO/view",
+              "image": "https://i.imgur.com/aDsdzLW.png",
               "pip": 2
             },
             {
               "name": "Keepers of the Peace",
-              "image": "https://drive.google.com/file/d/1TmEq3_IlQrfQJj1sONnW5QORz7QWhltk/view",
+              "image": "https://i.imgur.com/lT13GCw.png",
               "pip": 3
             }
           ]
@@ -48,7 +48,7 @@
     "Flaw": [
       {
        "name": "He's Too Dangerous To Be Left Alive",
-       "image": "https://drive.google.com/file/d/17zYFKsQbjDqFGxfoCU46dadEeN6GOZbG/view",
+       "image": "https://i.imgur.com/0vovL5f.png",
        "points": 0,
        "restrictions": {
          "include": {
