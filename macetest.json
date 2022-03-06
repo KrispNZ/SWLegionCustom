@@ -5,13 +5,13 @@
         {
           "name": "Mace Windu",
           "title": "Master Jedi",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281429/3C9D0D124008761886003E77A61D804554209CDB/",
+          "image": "https://drive.google.com/file/d/1grXaLegGVnb_oS7C2uKHbkOVYjukVJ57/view",
           "size": "small",
           "type": "Trooper",
-          "points": 200,
+          "points": 205,
           "speed": 2,
           "upgrades": {
-            "Force": 3,
+            "Force": 2,
             "Command": 1,
             "Training": 1
           },
@@ -24,17 +24,17 @@
           "commands": [
             {
               "name": "This Party's Over",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281940/390920829A0807A416D844133830F1BD4AA708BA/",
+              "image": "https://drive.google.com/file/d/1jPKsriw1WKG3hVzcWY0yxBhR-kr6j_J_/view",
               "pip": 1
             },
             {
-              "name": "High Jedi General",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625282871/344CE94B47257366F05F2456247B2039D9C1E353/",
+              "name": "Shatterpoint",
+              "image": "https://drive.google.com/file/d/1O-BM59WvH746qsKDQqAFM14v0ak7wnbO/view",
               "pip": 2
             },
             {
-              "name": "Shatterpoint",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
+              "name": "Keepers of the Peace",
+              "image": "https://drive.google.com/file/d/1TmEq3_IlQrfQJj1sONnW5QORz7QWhltk/view",
               "pip": 3
             }
           ]
