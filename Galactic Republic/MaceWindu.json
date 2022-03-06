@@ -8,7 +8,7 @@
           "image": "https://i.imgur.com/lbcfMEQ.png",
           "size": "small",
           "type": "Trooper",
-          "points":205 ,
+          "points": 205,
           "speed": 2,
           "upgrades": {
             "Force": 2,
@@ -38,7 +38,6 @@
               "pip": 3
             }
           ]
-          "required": ["He's Too Dangerous To Be Left Alive"]
         }
       ]
     }
