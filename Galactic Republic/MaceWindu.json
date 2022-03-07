@@ -5,7 +5,7 @@
         {
           "name": "Mace Windu",
           "title": "Master Jedi",
-          "image": "https://i.imgur.com/lbcfMEQ.png",
+          "image": "https://i.imgur.com/hYiWJm2.png",
           "size": "small",
           "type": "Trooper",
           "points": 190,
@@ -38,21 +38,12 @@
               "pip": 3
             }
           ]
-          "required": ["He's Too Dangerous to Be Left Alive"]
         }
       ]
     }
   },
 
-  "upgrades": {
-    "Flaw": [
-        {
-          "name": "He's Too Dangerous to Be Left Alive",
-          "image": "https://i.imgur.com/eZUcXYl.png",
-          "points": 0
-        }
-    ],
-  },
+  "upgrades": {},
   "battlefield": {},
   "commands": {}
 }
