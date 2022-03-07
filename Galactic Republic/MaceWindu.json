@@ -15,11 +15,14 @@
             "Command": 1,
             "Training": 1
           },
-          "minis": [{
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
-          }],
-          "commands": [{
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+            }
+          ],
+          "commands": [
+            {
               "name": "This Party's Over",
               "image": "https://i.imgur.com/OKYdl7L.png",
               "pip": 1
@@ -34,21 +37,21 @@
               "image": "https://i.imgur.com/lT13GCw.png",
               "pip": 3
             }
-          ],
-          "required": ["He's Too Dangerous to Be Left Alive"]
-        },
-        ]
+          ]
+        }
+      ]
     }
   },
 
   "upgrades": {
     "Flaw": [
-      {
-        "name": "He's Too Dangerous to Be Left Alive",
-        "image": "https://i.imgur.com/eZUcXYl.png",
-        "points": 0, 
-      } 
-    ]
+        {
+          "name": "He's Too Dangerous to Be Left Alive",
+          "image": "https://i.imgur.com/eZUcXYl.png",
+          "points": 0
+        }
+    ],
+    "required": ["He's Too Dangerous to Be Left Alive"]
   },
   "battlefield": {},
   "commands": {}
