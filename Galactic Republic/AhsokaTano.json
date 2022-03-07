@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Operative": [
+        {
+          "name": "Ahsoka Tano",
+          "title": "332nd Company Adviser",
+          "image": "https://i.imgur.com/nlndnax.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": ,
+          "speed": 2,
+          "upgrades": {
+            "Force": 1,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350883222773/A4B8C6678A7082E70BEC3204A279752479EA5EA2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350882538520/1BB66CE6B8F58CFB17BE6A7850DC2F2A6F0A2CC3/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "",
+              "image": "",
+              "pip": 1
+            },
+            {
+              "name": "",
+              "image": "",
+              "pip": 2
+            },
+            {
+              "name": "",
+              "image": "",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
