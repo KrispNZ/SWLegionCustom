@@ -38,12 +38,26 @@
               "pip": 3
             }
           ]
+          "required": ["He's Too Dangerous to Be Left Alive"]
         }
       ]
     }
   },
 
-  "upgrades": {},
+  "upgrades": {
+    "Flaw": [
+      {
+        "name": "He's Too Dangerous to Be Left Alive",
+        "image": "https://i.imgur.com/eZUcXYl.png",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Mace Windu"]
+          }
+        } 
+      } 
+    ]
+  },
   "battlefield": {},
   "commands": {}
 }
