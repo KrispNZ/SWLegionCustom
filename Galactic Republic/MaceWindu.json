@@ -38,6 +38,7 @@
               "pip": 3
             }
           ]
+          "required": ["He's Too Dangerous to Be Left Alive"]
         }
       ]
     }
@@ -51,7 +52,6 @@
           "points": 0
         }
     ],
-    "required": ["He's Too Dangerous to Be Left Alive"]
   },
   "battlefield": {},
   "commands": {}
