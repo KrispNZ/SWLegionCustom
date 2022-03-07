@@ -8,12 +8,11 @@
           "image": "https://i.imgur.com/JRXNsel.png",
           "size": "small",
           "type": "Trooper",
-          "points": ,
+          "points": 130,
           "speed": 2,
           "upgrades": {
             "Force": 1,
-            "Training": 1,
-            "Gear": 1
+            "Training": 2
           },
           "minis": [
             {
@@ -23,8 +22,8 @@
           ],
           "commands": [
             {
-              "name": "",
-              "image": "",
+              "name": "Commander Tano",
+              "image": "https://i.imgur.com/EMJNcBI.png",
               "pip": 1
             },
             {
@@ -33,8 +32,8 @@
               "pip": 2
             },
             {
-              "name": "",
-              "image": "",
+              "name": "Like Master Like Padawan",
+              "image": "https://i.imgur.com/HK0WjKR.png",
               "pip": 3
             }
           ]
