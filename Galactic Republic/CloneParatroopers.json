@@ -1,0 +1,110 @@
+{
+  "units": {
+    "Republic": {
+      "Special Forces": [
+        {
+          "name": "Clone Paratroopers",
+          "title": "Airborn Soldiers of the Republic",
+          "image": "https://i.imgur.com/MFzpdSr.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 68,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 2,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507071203/040CF6A943C83588994E5BD8C0DDB793F6DE9875/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425506623/121AA3B4552A900E92161C97E55443D4040D7886/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507016826/760576DD3D314CB88313B54E105FB561009F8502/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506836632/AE0366ABB62BED44CC56CB5F25D5C6478592EBBF/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Heavy Weapon": [
+        {
+          "name": "DC-15 Paratrooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747551847/74C7612A3CD055BEF6F7ED101DCC13AC2EF96D2F/",
+          "points": 29,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Paratroopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+          }
+        }
+    ],
+    "Heavy Weapon": [
+      {
+        "name": "RSP-6 Paratrooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747551248/7EB35E562D1685283C46BCC74678C8B0573F68FE/",
+          "points": 26,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Paratroopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425547360/64A0DE5FC04770CADAEFA3F202A83EF0ACA1AABB/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+          }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Paratrooper Medic",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747553122/09BE4CDAF6D1A40AED895C9DAC9B03EECA17E46A/",
+          "points": 24,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Paratroopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+          }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Clone Paratrooper",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747552501/731105BAC6B5011092706B93C5853B6B51317D55/",
+          "points": 14,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Paratroopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
