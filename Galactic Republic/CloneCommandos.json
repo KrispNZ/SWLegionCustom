@@ -57,10 +57,6 @@
       {
         "name": "DC-17M Sniper Rifle Config",
           "image": "https://i.imgur.com/D8LEeLq.png",
-          "flip": {
-            "name": "DC-17M Grenade Launcher Config",
-            "image": "https://i.imgur.com/Lhpknyd.png"
-          },
           "points": 15,
           "restrictions": {
             "include": {
