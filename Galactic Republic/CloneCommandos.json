@@ -7,7 +7,7 @@
           "title": "Republic Special Forces",
           "image": "https://i.imgur.com/M4fpEF6.png",
           "size": "small",
-          "type": "Trooper",
+          "type": "Clone Trooper",
           "points": 100,
           "speed": 2,
           "upgrades": {
@@ -46,15 +46,15 @@
           "name": "Priority Comms",
           "image": "https://i.imgur.com/jBSeJ3G.png",
           "points": 8,
-        }
-     ],
+          }
+    ],
     "Armament": [
-      {
+        {
         "name": "DC-17M Sniper Rifle Config",
           "image": "https://i.imgur.com/D8LEeLq.png",
           "flip": {
             "name": "DC-17M Grenade Launcher Config",
-            "image": "https://i.imgur.com/Lhpknyd.png",
+            "image": "https://i.imgur.com/Lhpknyd.png"
           },
           "points": 15,
           "restrictions": {
@@ -65,7 +65,7 @@
         }
      ],
     "Gear": [
-      {
+        {
         "name": "Repulsor Blast",
           "image": "https://i.imgur.com/1WT4KdC.png",
           "points": 10,
