@@ -34,7 +34,7 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
             }
-          ]
+          ],
         }
       ]
     }
@@ -46,10 +46,15 @@
           "name": "Priority Comms",
           "image": "https://i.imgur.com/jBSeJ3G.png",
           "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
           }
-    ],
+        }
+     ],
     "Armament": [
-        {
+      {
         "name": "DC-17M Sniper Rifle Config",
           "image": "https://i.imgur.com/D8LEeLq.png",
           "flip": {
@@ -65,7 +70,7 @@
         }
      ],
     "Gear": [
-        {
+      {
         "name": "Repulsor Blast",
           "image": "https://i.imgur.com/1WT4KdC.png",
           "points": 10,
