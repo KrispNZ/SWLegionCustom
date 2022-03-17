@@ -1,0 +1,82 @@
+{
+  "units": {
+    "Republic": {
+      "Special Forces": [
+        {
+          "name": "Clone Commandos",
+          "title": "Republic Special Forces",
+          "image": "https://i.imgur.com/M4fpEF6.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Comms": [
+          {
+          "name": "Priority Comms:,
+          "image": "https://i.imgur.com/jBSeJ3G.png",
+          "points": 8,
+        }
+     ],
+    "Armament": [
+      {
+        "name": "DC-17M Sniper Rifle Config",
+          "image": "https://i.imgur.com/D8LEeLq.png",
+          "flip": {
+            "name": "DC-17M Grenade Launcher Config",
+            "image": "https://i.imgur.com/Lhpknyd.png",
+          },
+          "points": 15,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+        }
+     ],
+    "Gear": [
+      {
+        "name": "Repulsor Blast",
+          "image": "https://i.imgur.com/1WT4KdC.png",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+        }
+     ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
