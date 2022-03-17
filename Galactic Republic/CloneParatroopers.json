@@ -54,9 +54,7 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
           }
-        }
-    ],
-    "Heavy Weapon": [
+        },
       {
         "name": "RSP-6 Paratrooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747551248/7EB35E562D1685283C46BCC74678C8B0573F68FE/",
@@ -86,9 +84,7 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
           }
-      }
-    ],
-    "Personnel": [
+      },
       {
         "name": "Clone Paratrooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747552501/731105BAC6B5011092706B93C5853B6B51317D55/",
