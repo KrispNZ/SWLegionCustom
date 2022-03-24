@@ -17,8 +17,8 @@
           },
           "minis": [
             {
-              "mesh": "",
-              "diffuse": ""
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785236717873394134/94407058FBA842AD0FDCC0BBB8AB613EA9A739C2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785236717873394267/272C1C9A8C15C36DC5C10DD62D5EFCEF9BFF4496/"
             }
           ],
           "commands": [
