@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Plo Koon",
+          "title": "Wise Jedi Master",
+          "image": "https://i.imgur.com/DnNoxGt.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 170,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "",
+              "diffuse": ""
+            }
+          ],
+          "commands": [
+            {
+              "name": "Force Judgement",
+              "image": "https://i.imgur.com/RJs7ym9.png",
+              "pip": 1
+            },
+            {
+              "name": "I Don't Believe in Chance",
+              "image": "https://i.imgur.com/b4lHIA3.png",
+              "pip": 2
+            },
+            {
+              "name": "No One is Expendable",
+              "image": "https://i.imgur.com/Sp1lmI7.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
