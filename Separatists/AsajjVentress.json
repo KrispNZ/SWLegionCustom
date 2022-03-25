@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Asajj Ventress",
+          "title": "Separatist Assassin",
+          "image": "https://i.imgur.com/zTVL87U.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 155,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824153235918382/C6629B635DB0B3D04D345B83AE6A0DA0EF4CDDBC/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824153235918510/4CE73F1347AA53974D94CADE1B77D9875694299C/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Acolyte of the Sith",
+              "image": "https://i.imgur.com/svE0ozW.png",
+              "pip": 1
+            },
+            {
+              "name": "Nightsister Swiftness",
+              "image": "https://i.imgur.com/N5Kl3SC.png",
+              "pip": 2
+            },
+            {
+              "name": "Slave to Hatred",
+              "image": "https://i.imgur.com/kSiCvQj.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
