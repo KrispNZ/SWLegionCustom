@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Kit Fisto",
+          "title": "Friendly Nautolan Jedi",
+          "image": "https://i.imgur.com/h0caOJR.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 160,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/777357228030156264/12F93F60CC26F1FDC2B577D4014787B7CAFBF9A1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228030156398/F811CAE962A0BFE369544C0A96C251F5BF198B3A/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "In Too Deep",
+              "image": "https://i.imgur.com/ni4aBsq.png",
+              "pip": 1
+            },
+            {
+              "name": "Knowledge of Glee Anselm",
+              "image": "https://i.imgur.com/WiXyiwE.png",
+              "pip": 2
+            },
+            {
+              "name": "Water War",
+              "image": "https://i.imgur.com/NkpTqSl.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
