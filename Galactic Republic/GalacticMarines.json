@@ -1,0 +1,107 @@
+{
+  "units": {
+    "Republic": {
+      "Corps": [
+        {
+          "name": "Galactic Marines",
+          "title": "Extreme Confitions Soldiers of the Republic",
+          "image": "https://i.imgur.com/4p1WjcP.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 64,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801027/2A5DEE9952A0179FC8448FFA52819B387124ACD7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801837/D52F333945BF667A37E06611977C36186CEFC7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801500/728C586E21D0A4EBD8DE54EEF4E097EFEEECE871/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801363/743D9E272367ABB1F6296D5EFB6010637C58D5E4/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Heavy Weapon": [
+        {
+          "name": "DC-15 Galactic Marine",
+          "image": "https://i.imgur.com/tqvWj0c.jpg",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["Galactic Marines"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785236717873393393/915E79CA7D72B0DA950656C69F104A7BB586C0E0/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785236717873393180/6359B491483DCD9B2641BA134DC4B92DE10E9D92/"
+          }
+        },
+      {
+          "name": "Z-6 Galactic Marine",
+          "image": "https://i.imgur.com/webFtu3.jpg",
+          "points": 27,
+          "restrictions": {
+            "include": {
+              "unit": ["Galactic Marines"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321579074/D5F10426146B81D46F02B027B9C4CC875FA6DA00/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321728189/3FB4241F32F35813B6A934FCD3030D3F3D5B7090/"
+          }
+        },
+      {
+        "name": "Marine Flametrooper",
+          "image": "https://i.imgur.com/Bq07XPr.png",
+          "points": 26,
+          "restrictions": {
+            "include": {
+              "unit": ["Galactic Marines"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801931/BDE907EBE0BFC0DC4180C76AFEA3F8667013FF3B/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541802054/044AD0961CD1485A61AC3B6CB3669FD8AA5A0FEB/"
+        }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Galactic Marine",
+          "image": "https://i.imgur.com/AyEl4H8.jpg",
+          "points": 16,
+          "restrictions": {
+            "include": {
+              "unit": ["Galactic Marines"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801717/EDEA1301FC55A6970D5FBCF0A9F10456E4C2EE40/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
