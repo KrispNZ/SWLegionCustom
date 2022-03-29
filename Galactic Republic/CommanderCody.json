@@ -38,6 +38,21 @@
               "name": "Men of the 212th",
               "image": "https://i.imgur.com/RT1k3BI.jpg",
               "pip": 3
+            },
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "pip": 3
             }
           ]
         }
