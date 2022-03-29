@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Clone Commander Gree",
+          "title": "Marshal Commander of the 41st",
+          "image": "https://i.imgur.com/ckmMGgn.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 2,
+            "Gear": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035126931/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035127510/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
