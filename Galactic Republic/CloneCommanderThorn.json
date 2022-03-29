@@ -1,0 +1,50 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Clone Commander Thorn",
+          "title": "Courageous Commander of the Coruscant Guard",
+          "image": "https://i.imgur.com/sEyNFLv.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321579074/D5F10426146B81D46F02B027B9C4CC875FA6DA00/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893321728189/3FB4241F32F35813B6A934FCD3030D3F3D5B7090/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
