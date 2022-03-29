@@ -1,0 +1,63 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Clone Commander Colt",
+          "title": "Commander of Rancor Battalion",
+          "image": "https://i.imgur.com/DDM7RIc.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457802621/01F605D855048F823A0ECA6C46D2A62B56C04124/",
+              "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "This is How it's Done",
+              "image": "https://i.imgur.com/y0el5OD.png",
+              "pip": 1
+            },
+            {
+              "name": "Shock Traps",
+              "image": "https://i.imgur.com/gCfXJQY.png",
+              "pip": 2
+            },
+            {
+              "name": "Just Like the Simulations",
+              "image": "https://i.imgur.com/uJlBEZs.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+     "Gear": [
+      {
+        "name": "JT-12 Jetpack",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568143399/3D728D8253711B25C2DE4E1177D8B08A115A2746/",
+          "points": 5,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commander Colt"]
+            }
+          }
+        }
+     ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
