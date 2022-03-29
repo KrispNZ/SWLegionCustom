@@ -5,10 +5,10 @@
         {
           "name": "Clone Paratroopers",
           "title": "Airborn Soldiers of the Republic",
-          "image": "https://i.imgur.com/MFzpdSr.png",
+          "image": "https://i.imgur.com/pKtybWn.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 68,
+          "points": 70,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
