@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Ki-Adi Mundi",
+          "title": "Inspiring Jedi General",
+          "image": "https://i.imgur.com/7OWG64I.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 175,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1647717402898546429/B304222EB644FD345A672FA36A7C4F5DF5152C49/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1618472373243511338/BA0B615A051FBA00DEFBB555DB87B516E19AF8EA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Renowned Duelist",
+              "image": "https://i.imgur.com/lcsMEd7.png",
+              "pip": 1
+            },
+            {
+              "name": "Veteran Jedi General",
+              "image": "https://i.imgur.com/3v8Yt54.png",
+              "pip": 2
+            },
+            {
+              "name": "Inspiring Jedi General",
+              "image": "https://i.imgur.com/930Mzqy.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
