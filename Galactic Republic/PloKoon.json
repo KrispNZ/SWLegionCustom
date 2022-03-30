@@ -5,10 +5,10 @@
         {
           "name": "Plo Koon",
           "title": "Wise Jedi Master",
-          "image": "https://i.imgur.com/DnNoxGt.png",
+          "image": "https://i.imgur.com/s9zZldR.png",
           "size": "small",
           "type": "Trooper",
-          "points": 170,
+          "points": 165,
           "speed": 2,
           "upgrades": {
             "Force": 2,
