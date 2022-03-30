@@ -1,0 +1,68 @@
+{
+  "units": {
+    "Republic": {
+      "Special Forces": [
+        {
+          "name": "Wolfpack",
+          "title": "Soldiers of the 104th Attack Battalion",
+          "image": "https://i.imgur.com/UsYOb5e.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 34,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 2,
+            "Comms": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035126931/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035127510/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Heavy Weapon": [
+        {
+          "name": "Sinker",
+          "image": "https://i.imgur.com/KiES1tO.png",
+          "points": 29,
+          "restrictions": {
+            "include": {
+              "faction": ["Republic"],
+              "unit": ["Wolfpack"],
+              "rank": ["Corps"]
+            }
+          },
+          "mini": {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457802221/506D704E232C1BFD85F063A24EBF24C5914C2C40/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+          }
+        },
+      {
+        "name": "Boost",
+          "image": "https://i.imgur.com/csioEkp.png",
+          "points": 32,
+          "restrictions": {
+            "include": {
+              "faction": ["Republic"],
+              "unit": ["Wolfpack"],
+              "rank": ["Corps"]
+            }
+          },
+          "mini": {
+            "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800878/34EC84D7ECD99E073417866A9BEC4288E00F5359/",
+            "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
