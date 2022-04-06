@@ -8,7 +8,7 @@
           "image": "https://i.imgur.com/2QQRttM.png",
           "size": "small",
           "type": "Trooper",
-          "points": 1,
+          "points": 0,
           "speed": 2,
           "upgrades": {
             "Command": 2,
