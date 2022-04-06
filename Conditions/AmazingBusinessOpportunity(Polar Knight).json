@@ -69,11 +69,6 @@
     "standard": {
       "condition": [
         {
-          "name": "Clear Conditionz",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1680393865566151419/955CCA2E7134CBE4FEF69C62F148FFFCCAE1A577/",
-          "type": "horizontal"
-        },
-        {
           "name": "Amazing Business Opportunity",
           "image": "https://i.imgur.com/GA4Ojcp.png",
           "type": "horizontal"
