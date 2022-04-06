@@ -34,14 +34,14 @@
           "points": 0
           "restrictions": {
             "include": {
-              "unit": ["Hondo Ohnaka']
+              "unit": ["Hondo Ohnaka"]
             }
           }
         }
      ],
     "Armament": [
       {
-        "name": "Hondo's Electrostaff
+        "name": "Hondo's Electrostaff",
           "image": "https://i.imgur.com/D1fLMtz.png",
           "points": 0
           "restrictions": {
