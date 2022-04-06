@@ -24,17 +24,17 @@
           "commands": [
             {
               "name": "Renowned Duelist",
-              "image": "https://i.imgur.com/lcsMEd7.png",
+              "image": "https://i.imgur.com/JhvIM5z.png",
               "pip": 1
             },
             {
-              "name": "Veteran Jedi General",
-              "image": "https://i.imgur.com/3v8Yt54.png",
+              "name": "Veteran Jedi Master",
+              "image": "https://i.imgur.com/rFemqr3.png",
               "pip": 2
             },
             {
               "name": "Inspiring Jedi General",
-              "image": "https://i.imgur.com/930Mzqy.png",
+              "image": "https://i.imgur.com/Ssq1UMM.png",
               "pip": 3
             }
           ]
