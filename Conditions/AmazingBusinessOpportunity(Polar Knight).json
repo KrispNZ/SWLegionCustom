@@ -1,6 +1,7 @@
+
 {
   "units": {
-    "Scum"{
+    "Scum": {
       "Operative": [
         {
           "name": "Hondo Ohnaka",
@@ -20,7 +21,7 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697601906780896/650CF3405CD4106C46B9CB7F0B8C3884B62CD278/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697601906781011/E61558EE4DCDF12D33E98940751D940381181C93/"
             }
-          ]
+          ],
         }
       ]
     }
@@ -31,7 +32,7 @@
           {
           "name": "Inspiring Monologue",
           "image": "https://i.imgur.com/RjiKZlo.png",
-          "points": 0
+          "points": 0,
           "restrictions": {
             "include": {
               "unit": ["Hondo Ohnaka"]
@@ -43,7 +44,7 @@
       {
         "name": "Hondo's Electrostaff",
           "image": "https://i.imgur.com/D1fLMtz.png",
-          "points": 0
+          "points": 0,
           "restrictions": {
             "include": {
               "unit": ["Hondo Ohnaka"]
@@ -71,7 +72,7 @@
           "name": "Amazing Business Opportunity",
           "image": "https://i.imgur.com/GA4Ojcp.png",
           "type": "horizontal"
-         }
+        }
       ]
     }
   },
