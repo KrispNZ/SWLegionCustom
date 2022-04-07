@@ -1,0 +1,56 @@
+{
+  "units": {
+    "Republic": {
+      "Heavy": [
+        {
+          "name": "AT-AP",
+          "title": "Self-Propelled Sniper Tank",
+          "image": "https://i.imgur.com/KHMjjQU.png",
+          "size": "epic",
+          "type": "Ground Vehicle",
+          "points": 170,
+          "speed": 1,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756243525814/22DBD5FF8C4A887FF7DBFD977F190A7192C1D4B7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756243525957/D334BA41B51D1DD235E2A5ED14F1EEACC9CD9EEF/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Pilot": [
+        {
+          "name": "Veteran Gunner",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747586823/256792792FFE8D876759E9A894F76F489BFDE968/",
+          "points": 6,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AP"]
+            }
+          }
+        }
+    ],
+    "Hardpoint": [
+      {
+        "name": "Dorsal Laser Cannon",
+          "image": "https://i.imgur.com/o9EAloc.png",
+          "points": 23,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AP"]
+            }
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
