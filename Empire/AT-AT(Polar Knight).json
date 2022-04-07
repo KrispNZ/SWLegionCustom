@@ -16,6 +16,7 @@
           },
           "minis": [{
               "mesh": "http://cloud-3.steamusercontent.com/ugc/81464207522351907/6526A7BDC85F3E36787653EFB41DDE8518EEAFAF/",
+              "$comment": "Mini must be sized up 18 times.",
               "diffuse": "http://imgur.com/uaTUcYJ.jpg"
             }
           ]
