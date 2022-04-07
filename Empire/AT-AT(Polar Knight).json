@@ -1,0 +1,63 @@
+{
+  "units": {
+    "Empire": {
+      "Heavy": [
+        {
+          "name": "AT-AT",
+          "title": "Mechanical Terror",
+          "image": "https://i.imgur.com/hwq7aKd.png",
+          "size": "epic",
+          "type": "Ground Vehicle",
+          "points": 320,
+          "speed": 1,
+          "upgrades": {
+            "Pilot": 1,
+            "Command": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/81464207522351907/6526A7BDC85F3E36787653EFB41DDE8518EEAFAF/",
+              "diffuse": "http://imgur.com/uaTUcYJ.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Pilot": [
+        {
+          "name": "Grand Admiral Thrawn",
+          "image": "https://i.imgur.com/lGV6Yz8.png",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AT"]
+            }
+          }
+        },
+        {
+          "name": "TK-888",
+          "image": "https://i.imgur.com/HIskgyG.png",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AT"]
+            }
+          }
+        },
+        {
+          "name": "General Veers",
+          "image": "https://i.imgur.com/RAbihxQ.png",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AT"]
+            }
+          }
+        }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
