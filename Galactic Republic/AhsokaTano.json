@@ -5,14 +5,14 @@
         {
           "name": "Ahsoka Tano",
           "title": "332nd Company Adviser",
-          "image": "https://i.imgur.com/Sz5VNsg.png",
+          "image": "https://i.imgur.com/0tEkoXG.png",
           "size": "small",
           "type": "Trooper",
           "points": 135,
           "speed": 2,
           "upgrades": {
             "Force": 2,
-            "Training": 2
+            "Training": 1
           },
           "minis": [
             {
