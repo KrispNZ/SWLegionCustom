@@ -8,7 +8,7 @@
           "image": "https://i.imgur.com/puZamC1.png",
           "size": "small",
           "type": "Trooper",
-          "points": 130,
+          "points": 135,
           "speed": 2,
           "upgrades": {
             "Force": 2,
