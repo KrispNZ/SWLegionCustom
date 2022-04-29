@@ -5,13 +5,13 @@
         {
           "name": "Clone Commandos",
           "title": "Republic Special Forces",
-          "image": "https://i.imgur.com/M4fpEF6.png",
+          "image": "https://i.imgur.com/Anvvyd7.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 100,
+          "points": 110,
           "speed": 2,
           "upgrades": {
-            "Training": 1,
+            "Training": 2,
             "Comms": 1,
             "Gear": 2,
             "Armament": 1,
@@ -73,6 +73,32 @@
         "name": "Repulsor Blast",
           "image": "https://i.imgur.com/1WT4KdC.png",
           "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      },
+      {
+        "name": "Bacta Injector",
+          "image": "https://i.imgur.com/lNpFMAZ.png",
+          "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      }
+    ],
+    "Grenades": [
+      {
+        "name": "DET-pack Charge",
+          "image": "https://i.imgur.com/pJasll7.jpg",
+           "flip": {
+            "name": "DET-Pack Breacher",
+            "image": "https://i.imgur.com/Gvr7MgD.jpg"
+          },
+          "points": 8,
           "restrictions": {
             "include": {
               "unit": ["Clone Commandos"]
