@@ -1,0 +1,169 @@
+{
+  "units": {
+    "Republic": {
+      "Special Forces": [
+        {
+          "name": "Clone Commandos",
+          "title": "The Bad Batch",
+          "image": "https://i.imgur.com/9Khlxco.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 35,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 4,
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 1,
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Comms": [
+        {
+          "name": "Priority Comms",
+          "image": "https://i.imgur.com/jBSeJ3G.png",
+          "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+        }
+    ],
+     "Heavy Weapon": [
+        {
+          "name": "Crosshair",
+          "image": "https://i.imgur.com/EyA3XBZ.png",
+          "points": 35,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          },
+          {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457801321/CED1CD80F307683E79B9A4ED87CECAED7C070EBF/",
+              "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+          }
+        },
+      {
+        "name": "Echo",
+          "image": "https://i.imgur.com/9N6GK58.png",
+          "points": 35,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035131182/F5BA58F09282727EFB8E38BA478970E44B983EED/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035131690/ED66D23D4467396F6858928E9FEE1DABB4F9B446/"
+          }
+      },
+      {
+        "name": "Tech",
+          "image": "https://i.imgur.com/WDwqc1j.png",
+          "points": 35,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035133539/7AD5C8B323760EFE19570C8F8D0DDA994973F03B/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035133984/DF3D2C9C54EBD45F87B48DCE203019FDD5FAECD2/"
+          }
+      },
+      {
+        "name": "Wrecker",
+          "image": "https://i.imgur.com/U2ZdKBm.png",
+          "points": 35,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          },
+          "mini": {
+                    "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
+                    "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
+                  }
+      }
+    ],
+    "Armament": [
+      {
+        "name": "DC-17M Sniper Rifle Config",
+          "image": "https://i.imgur.com/D8LEeLq.png",
+           "flip": {
+            "name": "DC-17M Grenade Launcher Config",
+            "image": "https://i.imgur.com/dPEFeFz.png"
+          },
+          "points": 15,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      }
+    ],
+    "Gear": [
+      {
+        "name": "Repulsor Blast",
+          "image": "https://i.imgur.com/1WT4KdC.png",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      },
+      {
+        "name": "Bacta Injector",
+          "image": "https://i.imgur.com/lNpFMAZ.png",
+          "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      }
+    ],
+    "Grenades": [
+      {
+        "name": "DET-pack Charge",
+          "image": "https://i.imgur.com/pJasll7.jpg",
+           "flip": {
+            "name": "DET-Pack Breacher",
+            "image": "https://i.imgur.com/Gvr7MgD.jpg"
+          },
+          "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
