@@ -12,7 +12,7 @@
           "points": 0,
           "speed": 2,
           "upgrades": {
-            "Command": 2,
+            "Command": 1,
             "Armament": 1,
             "Flaw": 1
           },
