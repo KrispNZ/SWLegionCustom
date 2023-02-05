@@ -263,11 +263,6 @@
       "skirmish": {
         "objective": [
           {
-            "name": "Breach",
-            "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279492/85477A894623DDA23BC182995DAF396671A0C007/",
-            "type": "vertical"
-          },
-          {
             "name": "Control",
             "image": "http://cloud-3.steamusercontent.com/ugc/4112341331071279456/10F29ECE1579A06D7DC564A6480F2BE27CC6EF04/",
             "type": "vertical",
