@@ -11,8 +11,8 @@
           "points": 100,
           "speed": 2,
           "upgrades": {
-            "Command": 1,
-            "Training": 2,
+            "Command": 2,
+            "Training": 1,
             "Gear": 1,
             "Grenades": 1
           },
