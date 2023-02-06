@@ -5,7 +5,7 @@
         {
           "name": "Imperial Army Troopers",
           "title": "Disposable",
-          "image": "https://imgur.com/qFc3Q1j",
+          "image": "https://i.imgur.com/qFc3Q1j.png",
           "size": "small",
           "type": "Trooper",
           "points": 40,
@@ -42,7 +42,7 @@
     "Heavy Weapon": [
         {
           "name": "SX-21 Army Trooper",
-          "image": "https://imgur.com/IXAJ0gQ",
+          "image": "https://i.imgur.com/IXAJ0gQ.png",
           "points": 15,
           "restrictions": {
             "include": {
@@ -58,7 +58,7 @@
     "Personnel": [
       {
         "name": "Han Solo",
-          "image": "https://imgur.com/g888QcR",
+          "image": "https://i.imgur.com/g888QcR.png",
           "points": 12,
           "restrictions": {
             "include": {
@@ -72,7 +72,7 @@
       },
       {
         "name": "Imperial Army Trooper Captain",
-          "image": "https://imgur.com/hY2qzYW",
+          "image": "https://i.imgur.com/hY2qzYW.png",
           "leader": true,
           "points": 12,
           "restrictions": {
@@ -87,7 +87,7 @@
       },
       {
         "name": "Imperial Army Trooper",
-          "image": "https://imgur.com/vsZNyW2",
+          "image": "https://i.imgur.com/vsZNyW2.png",
           "points": 9,
           "restrictions": {
             "include": {
