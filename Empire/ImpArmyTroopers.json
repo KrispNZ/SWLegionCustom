@@ -1,0 +1,106 @@
+{
+  "units": {
+    "Empire": {
+      "Core": [
+        {
+          "name": "Imperial Army Troopers",
+          "title": "Disposable",
+          "image": "https://imgur.com/qFc3Q1j",
+          "size": "small",
+          "type": "Trooper",
+          "points": 40,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554970051/E040360956BE255A1C0823EE4ADFB6D1B6C34DC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554972365/8034DEC3E4577F3B273139A1C466E2F96D62F571/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554973315/1A93711734D055426377D2F853CBA209A8AD0D11/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554974561/60C53C5F483DAF2F4BE766F332BBD8EB2750A1C6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Heavy Weapon": [
+        {
+          "name": "SX-21 Army Trooper",
+          "image": "https://imgur.com/IXAJ0gQ",
+          "points": 15,
+          "restrictions": {
+            "include": {
+              "unit": ["Imperial Army Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554986623/6DFE6E98AD8ABBF400C3CCF232E1196AF5A6D450/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+          }
+        }
+    ],
+    "Personnel": [
+      {
+        "name": "Han Solo",
+          "image": "https://imgur.com/g888QcR",
+          "points": 12,
+          "restrictions": {
+            "include": {
+              "unit": ["Imperial Army Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554982237/E83C14A33A6BC1CF15D9DAC5D0EECBE5F1B89A27/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+          }
+      },
+      {
+        "name": "Imperial Army Trooper Captain",
+          "image": "https://imgur.com/hY2qzYW",
+          "leader": true,
+          "points": 12,
+          "restrictions": {
+            "include": {
+              "unit": ["Imperial Army Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554984707/440CFBC4D13CD6A54463224926208B73A4B0E6BC/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+          }
+      },
+      {
+        "name": "Imperial Army Trooper",
+          "image": "https://imgur.com/vsZNyW2",
+          "points": 9,
+          "restrictions": {
+            "include": {
+              "unit": ["Imperial Army Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942554975682/0F5E8C7D80EF7C035D70F4288651251898705596/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077775745/67970337AE623E70E4C51F2B53DAF2530A551C0B/"
+          }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
