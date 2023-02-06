@@ -1,0 +1,45 @@
+{
+  "units": {
+    "Rebel": {
+      "Commander": [
+        {
+          "name": "Han Solo",
+          "title": "Unorthodox General",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1860546411028299008/F99C465CC6C73855A993B00184FD601B4E810F59/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492635478148410/3F9E054F9DDD1F3CF910980C3533CA06515B28E6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077735773/292D686689B5A8ED2AFE9149B8621B0AA4A69D1F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Sorry About The Mess",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564036094/C7F82426F9CDB6835C1DC91F0584AADE44F207EE/",
+              "pip": 1
+            },
+            {
+              "name": "Reckless Diversion",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034768/6CA17689021162EFE850A3CEA62AA3BD5B84B4A5/",
+              "pip": 2
+            },
+            {
+              "name": "Change Of Plans",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034095/F1EFCCA49BBF25049B679261404156EE2B259936/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
