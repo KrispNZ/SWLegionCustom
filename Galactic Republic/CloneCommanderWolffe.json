@@ -18,8 +18,8 @@
           },
           "minis": [
             {
-              "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457800538/06BBAAAAC7FB68DAA9351F12008475068A96BFFB/",
-              "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893325674091/D4433015CC3242AE13105E50DB20DCD7B12224C9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071524/389C9E5597C2E28322E4F522FA16529AA71D49FA/"
             }
           ],
           "commands": [
