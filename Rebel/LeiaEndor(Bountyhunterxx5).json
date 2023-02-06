@@ -1,0 +1,44 @@
+{
+  "units": {
+    "Rebel": {
+      "Commander": [
+        {
+          "name": "Leia Organa",
+          "title": "Fearless And Inventive",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788535425/1ADD2DCEEA5D23013C2331604493EFF62AC46DB3/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942562871783/AF68E545B8DA7B6ABD19687A4C8FDD4F3096D150/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077744553/57586AD570B5F2A6BE084B12B3B898B14A93A60F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Coordinated Bombardment",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564036952/79DBBA37340FFEA238E71B07D6969F19AD1B8BD1/",
+              "pip": 1
+            },
+            {
+              "name": "No Time For Sorrows",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034953/BDC08D664C3DC9DFE785E312F2F0517921B3C799/",
+              "pip": 2
+            },
+            {
+              "name": "Somebody Has To Save Our Skins",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564032996/852C2F232B15634E443A2317ED2D2316BA7496C4/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
