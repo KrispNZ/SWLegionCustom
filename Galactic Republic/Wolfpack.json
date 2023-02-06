@@ -18,8 +18,8 @@
             "Grenades": 1
           },
           "minis": [{
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321577529/3034903B0501BE08E398BCC7F0D735B308DA9377/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281399144/E1A292B1D9C5B721F4BD6C870F1DAC5BDDAF9650/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
             }
           ]
         }
@@ -32,6 +32,7 @@
         {
           "name": "Sinker",
           "image": "https://i.imgur.com/KiES1tO.png",
+          "leader": true,
           "points": 29,
           "restrictions": {
             "include": {
@@ -41,8 +42,8 @@
             }
           },
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281396590/F88D24438DE4A59DD0CDE3C0779FF9B35B7E42C4/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
           }
         },
       {
@@ -57,8 +58,8 @@
             }
           },
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281394521/01933A750466B2FF50D3CDC6AE2FAD440D24BEA1/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
           }
       }
     ]
