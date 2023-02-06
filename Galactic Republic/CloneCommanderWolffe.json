@@ -4,8 +4,8 @@
       "Commander": [
         {
           "name": "Clone Commander Wolffe",
-          "title": "https://i.imgur.com/vYPFMwx.png",
-          "image": "https://i.imgur.com/RplxO4r.png",
+          "title": "Marshal Commander of the 104th",
+          "image": "https://i.imgur.com/8HQPC6s.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 100,
@@ -25,17 +25,17 @@
           "commands": [
             {
               "name": "Close in for the Kill",
-              "image": "https://i.imgur.com/RXFZIe1.png",
+              "image": "https://i.imgur.com/IEevo1A.png",
               "pip": 1
             },
             {
-              "name": "Crippling Shots",
-              "image": "https://i.imgur.com/S7sqP6g.png",
+              "name": "Pack Tactics",
+              "image": "https://i.imgur.com/FDycShC.png",
               "pip": 2
             },
             {
-              "name": "Pack Tactics",
-              "image": "https://i.imgur.com/rurVWbB.png",
+              "name": "More than a Soldier",
+              "image": "https://i.imgur.com/6mAjxmx.png",
               "pip": 3
             },
             {
