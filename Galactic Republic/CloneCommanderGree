@@ -5,15 +5,16 @@
         {
           "name": "Clone Commander Gree",
           "title": "Marshal Commander of the 41st",
-          "image": "https://i.imgur.com/ckmMGgn.png",
+          "image": "https://i.imgur.com/NupVeVK.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 100,
           "speed": 2,
           "upgrades": {
             "Command": 2,
-            "Training": 2,
-            "Gear": 1
+            "Training": 1,
+            "Gear": 1,
+            "Grenade": 1
           },
           "minis": [
             {
