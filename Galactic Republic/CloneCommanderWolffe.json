@@ -8,7 +8,7 @@
           "image": "https://i.imgur.com/8HQPC6s.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 105,
+          "points": 110,
           "speed": 2,
           "upgrades": {
             "Command": 2,
