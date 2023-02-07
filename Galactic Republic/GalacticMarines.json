@@ -5,10 +5,10 @@
         {
           "name": "Galactic Marines",
           "title": "Extreme Confitions Soldiers of the Republic",
-          "image": "https://i.imgur.com/DMN6qax.png",
+          "image": "https://i.imgur.com/gIULSLB.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 64,
+          "points": 70,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
