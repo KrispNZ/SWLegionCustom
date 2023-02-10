@@ -273,7 +273,12 @@
               "name": "Fear of the Hunt",
               "image": "https://i.imgur.com/lB6f3e7.png",
               "pip": 2
-            }
+            },
+            {
+              "name": "Always One Step ahead",
+              "image": "https://i.imgur.com/oluf5hu.png",
+              "pip": 1
+            }  
           ]
         },
         {
@@ -306,6 +311,11 @@
               "name": "Pack Tactics",
               "image": "https://i.imgur.com/FDycShC.png",
               "pip": 2
+            },
+            {
+              "name": "More than A soldier",
+              "image": "https://i.imgur.com/RpAD5Hs.png",
+              "pip": 3
             }
           ]
         }
