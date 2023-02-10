@@ -5,7 +5,7 @@
         {
           "name": "Clone Commander Fox",
           "title": "Marshal Commander of the Coruscant Guard",
-          "image": "https://i.imgur.com/Hsdgtt7.png",
+          "image": "https://i.imgur.com/YkP8qrk.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 100,
@@ -13,8 +13,8 @@
           "upgrades": {
             "Command": 2,
             "Training": 1,
-            "Gear": 1,
-            "Comms": 1
+            "Gear": 2,
+            "Grenade": 1
           },
           "minis": [
             {
@@ -25,17 +25,32 @@
           "commands": [
             {
               "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "image": "https://i.imgur.com/qFFHa5x.png",
               "pip": 1
             },
             {
               "name": "Brothers",
-              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
               "pip": 2
             },
             {
               "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            },
+            {
+              "name": "Set for Stun!",
+              "image": "https://i.imgur.com/HGTvzzs.png",
+              "pip": 1
+            },
+            {
+              "name": "Senatorial Escort",
+              "image": "https://i.imgur.com/SmCmRD4.png",
+              "pip": 2
+            },
+            {
+              "name": "We'll Shut Them Down Cold",
+              "image": "https://i.imgur.com/OCLGrV6.png",
               "pip": 3
             }
           ]
