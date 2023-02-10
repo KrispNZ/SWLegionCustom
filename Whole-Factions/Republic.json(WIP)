@@ -342,7 +342,7 @@
         {
           "name": "Clone Commander Thorn",
           "title": "Courageous Commander of the Coruscant Guard",
-          "image": "https://i.imgur.com/Tji7D2D.png",
+          "image": "https://i.imgur.com/gHJ6TLD.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 90,
@@ -472,7 +472,7 @@
           ]
         },
         {
-          "name": "Clone Commandos",
+          "name": "Clone Force 99",
           "title": "The Bad Batch",
           "image": "https://i.imgur.com/9Khlxco.png",
           "size": "small",
@@ -672,7 +672,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Commandos"]
+              "unit": ["Clone Force 99, Clone Commandos"],
+              "rank": ["Corps"]
             }
           },
           "mini": {
@@ -681,12 +682,13 @@
           }
         },
       {
-        "name": "Echo",
+        "name": "Echo (Bad Batch)",
           "image": "https://i.imgur.com/9N6GK58.png",
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Commandos"]
+              "unit": ["Clone Force 99, Clone Commandos"],
+              "rank": ["Corps"]
             }
           },
           "mini": {
@@ -700,7 +702,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Commandos"]
+              "unit": ["Clone Force 99, Clone Commandos"],
+              "rank": ["Corps"]
             }
           },
           "mini": {
@@ -714,7 +717,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Commandos"]
+              "unit": ["Clone Force 99, Clone Commandos"],
+              "rank": ["Corps"]
             }
           },
           "mini": {
