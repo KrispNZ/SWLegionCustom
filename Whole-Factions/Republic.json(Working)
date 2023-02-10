@@ -170,7 +170,23 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035127510/89D5E03C721391A7CBC7930180396F3B14E5273F/"
             }
           ],
-          "commands": []
+          "commands": [
+            {
+              "name": "Another day, Another Fight",
+              "image": "https://i.imgur.com/8o5fnZY.png",
+              "pip": 1
+            },
+            {
+              "name": "No Matter the Costs",
+              "image": "https://i.imgur.com/xk2Zlbp.png",
+              "pip": 2
+            },
+            {
+              "name": "Expedited Assault",
+              "image": "https://i.imgur.com/vA8qWbR.png",
+              "pip": 3
+            }
+          ]
         },
         {
           "name": "Clone Commander Bly",
