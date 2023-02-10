@@ -448,7 +448,7 @@
           "image": "https://i.imgur.com/hqJzat9.png",
           "size": "epic",
           "type": "Repulsor Vehicle",
-          "points": 155,
+          "points": 165,
           "speed": 2,
           "upgrades": {
             "Pilot": 1,
