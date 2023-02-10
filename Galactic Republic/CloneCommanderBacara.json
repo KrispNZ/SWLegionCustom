@@ -24,6 +24,21 @@
           ],
           "commands": [
             {
+              "name": "Another day, Another Fight",
+              "image": "https://i.imgur.com/8o5fnZY.png",
+              "pip": 1
+            },
+            {
+              "name": "No Matter the Costs",
+              "image": "https://i.imgur.com/xk2Zlbp.png",
+              "pip": 2
+            },
+            {
+              "name": "Expedited Assault",
+              "image": "https://i.imgur.com/vA8qWbR.png",
+              "pip": 3
+            },
+            {
               "name": "Loyalty Means Everything",
               "image": "https://i.imgur.com/qFFHa5x.png",
               "pip": 1
