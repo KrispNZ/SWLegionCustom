@@ -5,15 +5,16 @@
         {
           "name": "Clone Commander Bly",
           "title": "Marshal Commander of the 327th",
-          "image": "https://i.imgur.com/7BXp6Lq.png",
+          "image": "https://i.imgur.com/aIrgCxV.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 100,
+          "points": 105,
           "speed": 2,
           "upgrades": {
             "Command": 1,
-            "Training": 2,
-            "Gear": 2
+            "Training": 1,
+            "Gear": 2,
+            "Grenade": 1
           },
           "minis": [
             {
@@ -24,17 +25,17 @@
           "commands": [
             {
               "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "image": "https://i.imgur.com/qFFHa5x.png",
               "pip": 1
             },
             {
               "name": "Brothers",
-              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
               "pip": 2
             },
             {
               "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "image": "https://i.imgur.com/KxJvLYy.png",
               "pip": 3
             }
           ]
