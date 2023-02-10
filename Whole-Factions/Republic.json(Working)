@@ -494,6 +494,60 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
             }
           ]
+        },
+        {
+          "name": "ARF Troopers",
+          "title": "Advanced Recon Soldiers of the Republic",
+          "image": "https://i.imgur.com/YTD9jV1.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 54,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281359696/A9FE8D723FB168EDAEDF1D1A5F7EA38646B5C152/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281385856/96D50C679BD5CF60C631A0CB77BC07E5DBA5BF1D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281386643/15447BEEC20024EB26CE5CD48AAC9D9EEE724F44/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281388182/B383426041392864A4832077A3AB030BC4ADD6A5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            }
+          ]
+        },
+        {
+          "name": "ARF Troopers (Strike Team)",
+          "title": "Advanced Recon Soldiers of the Republic",
+          "image": "https://i.imgur.com/qFsleBV.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 22,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281359696/A9FE8D723FB168EDAEDF1D1A5F7EA38646B5C152/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            }
+          ]
         }
       ],
       "Heavy": [
@@ -717,6 +771,34 @@
                     "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
                     "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
                   }
+      },
+       {
+          "name": "DC-15 Marksman",
+          "image": "https://i.imgur.com/7nVuHDg.png",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281389880/9C3538E361385DDB7858C06B57B3CFA08DA2A159/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+          }
+        },
+      {
+        "name": "Thermal Detonator Satchel",
+          "image": "https://i.imgur.com/jfTmo26.png",
+          "points": 26,
+          "restrictions": {
+            "include": {
+              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281399144/E1A292B1D9C5B721F4BD6C870F1DAC5BDDAF9650/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+          }
       },
        {
           "name": "DC-15 Paratrooper",
