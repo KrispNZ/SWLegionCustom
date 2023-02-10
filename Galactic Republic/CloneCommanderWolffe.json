@@ -5,10 +5,10 @@
         {
           "name": "Clone Commander Wolffe",
           "title": "Marshal Commander of the 104th",
-          "image": "https://i.imgur.com/8HQPC6s.png",
+          "image": "https://i.imgur.com/tPTdOKK.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 110,
+          "points": 105,
           "speed": 2,
           "upgrades": {
             "Command": 2,
@@ -40,17 +40,17 @@
             },
             {
               "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "image": "https://i.imgur.com/qFFHa5x.png",
               "pip": 1
             },
             {
               "name": "Brothers",
-              "image": "https://i.imgur.com/LVXPud9.jpg",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
               "pip": 2
             },
             {
               "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/OddLbyq.jpg",
+              "image": "https://i.imgur.com/KxJvLYy.png",
               "pip": 3
             }
           ]
