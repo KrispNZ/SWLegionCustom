@@ -1,0 +1,574 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Mace Windu",
+          "title": "Master Jedi",
+          "image": "https://i.imgur.com/3AymC1F.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 195,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "This Party's Over",
+              "image": "https://i.imgur.com/fqeO1Zb.png",
+              "pip": 1
+            },
+            {
+              "name": "Shatterpoint",
+              "image": "https://i.imgur.com/KeL4Tgn.png",
+              "pip": 2
+            },
+            {
+              "name": "Keepers of the Peace",
+              "image": "https://i.imgur.com/NFUkz09.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Ki-Adi Mundi",
+          "title": "Inspiring Jedi General",
+          "image": "https://i.imgur.com/fG2gJHF.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 175,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1647717402898546429/B304222EB644FD345A672FA36A7C4F5DF5152C49/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1618472373243511338/BA0B615A051FBA00DEFBB555DB87B516E19AF8EA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Renowned Duelist",
+              "image": "https://i.imgur.com/SS0Le9V.png",
+              "pip": 1
+            },
+            {
+              "name": "Veteran Jedi Master",
+              "image": "https://i.imgur.com/cY7WQjn.png",
+              "pip": 2
+            },
+            {
+              "name": "Inspiring Jedi General",
+              "image": "https://i.imgur.com/Ssq1UMM.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Bacara",
+          "title": "Marshal Commander of the 21st",
+          "image": "https://i.imgur.com/mktldO0.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 2,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1683750364035126931/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035127510/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Bly",
+          "title": "Marshal Commander of the 327th",
+          "image": "https://i.imgur.com/aIrgCxV.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893323027187/2DA908716DFE638747531810ED81F2D9E427B681/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071982/5FCC144D438DCCEFC8201406D8F766535857F20A/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Fox",
+          "title": "Marshal Commander of the Coruscant Guard",
+          "image": "https://i.imgur.com/JgbTMza.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "bundle": "http://cloud-3.steamusercontent.com/ugc/1009315641457799750/AE83DC038BA8AAF48678D07E1F9734D4A9944C1D/",
+              "secondary": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            },
+            {
+              "name": "Set for Stun!",
+              "image": "https://i.imgur.com/HGTvzzs.png",
+              "pip": 1
+            },
+            {
+              "name": "Senatorial Escort",
+              "image": "https://i.imgur.com/SmCmRD4.png",
+              "pip": 2
+            },
+            {
+              "name": "We'll Shut Them Down Cold",
+              "image": "https://i.imgur.com/OCLGrV6.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Gree",
+          "title": "Marshal Commander of the 41st",
+          "image": "https://i.imgur.com/u7qQnr5.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1931498942558407970/FFD30C163166ACD46295A31BC56C36393351BEF6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077070324/75BD717E8B2C5852658F0216748666B4E3CB4AC9/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            },
+            {
+              "name": "Fear of the Hunt",
+              "image": "https://i.imgur.com/lB6f3e7.png",
+              "pip": 2
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Wolffe",
+          "title": "Marshal Commander of the 104th",
+          "image": "https://i.imgur.com/tPTdOKK.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893325674091/D4433015CC3242AE13105E50DB20DCD7B12224C9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071524/389C9E5597C2E28322E4F522FA16529AA71D49FA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Close in for the Kill",
+              "image": "https://i.imgur.com/IEevo1A.png",
+              "pip": 1
+            },
+            {
+              "name": "Pack Tactics",
+              "image": "https://i.imgur.com/FDycShC.png",
+              "pip": 2
+            },
+            {
+              "name": "More than a Soldier",
+              "image": "https://i.imgur.com/6mAjxmx.png",
+              "pip": 3
+            },
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Ahsoka Tano",
+          "title": "332nd Company Adviser",
+          "image": "https://i.imgur.com/0tEkoXG.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 135,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350883222773/A4B8C6678A7082E70BEC3204A279752479EA5EA2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350882538520/1BB66CE6B8F58CFB17BE6A7850DC2F2A6F0A2CC3/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Commander Tano",
+              "image": "https://i.imgur.com/vABsUhG.png",
+              "pip": 1
+            },
+            {
+              "name": "The Greatest of Friends",
+              "image": "https://i.imgur.com/UC7tvIj.png",
+              "pip": 2
+            },
+            {
+              "name": "Like Master Like Padawan",
+              "image": "https://i.imgur.com/HK0WjKR.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Thorn",
+          "title": "Courageous Commander of the Coruscant Guard",
+          "image": "https://i.imgur.com/Tji7D2D.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321579074/D5F10426146B81D46F02B027B9C4CC875FA6DA00/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056442/DCF86BC98EAF9FBBAF8F78EC08057A88A2E2E2F2/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Last Man Standing",
+              "image": "https://i.imgur.com/vIQucfM.png",
+              "pip": 1
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Galactic Marines",
+          "title": "Extreme Confitions Soldiers of the Republic",
+          "image": "https://i.imgur.com/5dv8qN3.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 70,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801027/2A5DEE9952A0179FC8448FFA52819B387124ACD7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801837/D52F333945BF667A37E06611977C36186CEFC7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801500/728C586E21D0A4EBD8DE54EEF4E097EFEEECE871/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541801363/743D9E272367ABB1F6296D5EFB6010637C58D5E4/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541801215/595165C57A67BF2BD505BE6F0DF8F11AD4EA55D2/"
+            }
+          ]
+        }
+      ],
+      "Special Forces": [
+        {
+          "name": "Clone Commandos",
+          "title": "Republic Special Forces",
+          "image": "https://i.imgur.com/fIBrrVC.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 110,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 2,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            }
+          ]
+        },
+        {
+          "name": "Clone Paratroopers",
+          "title": "Airborn Soldiers of the Republic",
+          "image": "https://i.imgur.com/H2mak39.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 70,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 2,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507071203/040CF6A943C83588994E5BD8C0DDB793F6DE9875/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425506623/121AA3B4552A900E92161C97E55443D4040D7886/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507016826/760576DD3D314CB88313B54E105FB561009F8502/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506836632/AE0366ABB62BED44CC56CB5F25D5C6478592EBBF/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+            }
+          ]
+        },
+        {
+          "name": "Clone Commandos",
+          "title": "The Bad Batch",
+          "image": "https://i.imgur.com/9Khlxco.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 35,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 4,
+            "Training": 2,
+            "Comms": 1,
+            "Gear": 1,
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+        {
+          "name": "AT-AP",
+          "title": "Self-Propelled Sniper Tank",
+          "image": "https://i.imgur.com/KHMjjQU.png",
+          "size": "epic",
+          "type": "Ground Vehicle",
+          "points": 170,
+          "speed": 1,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756243525814/22DBD5FF8C4A887FF7DBFD977F190A7192C1D4B7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756243525957/D334BA41B51D1DD235E2A5ED14F1EEACC9CD9EEF/"
+            }
+          ]
+        },
+        {
+          "name": "LAAT/I Gunship",
+          "title": "Mobile Air Support",
+          "image": "https://i.imgur.com/jTrzn1X.png",
+          "size": "epic",
+          "type": "Repulsor Vehicle",
+          "points": 155,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 2,
+            "Ordnance": 1,
+            "Comms": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943501740/E509E21CEB3321071E6F56B006F24C1D919B6F3B/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  
+  
+  "upgrades": {
+    "Armament": [],
+    "Command": [],
+    "Comms": [],
+    "Counterpart": [],
+    "Crew": [],
+    "Flaw": [],
+    "Force": [],
+    "Training": [],
+    "Gear": [],
+    "Generator": [],
+    "Grenades": [],
+    "Hardpoint": [],
+    "Heavy Weapon": [],
+    "Ordnance": [],
+    "Personnel": [],
+    "Pilot": [],
+    "Programming": []
+    
+  },
+  "battlefield": {},
+  "commands": {}
+}
