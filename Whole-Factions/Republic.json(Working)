@@ -278,7 +278,12 @@
               "name": "Always One Step ahead",
               "image": "https://i.imgur.com/oluf5hu.png",
               "pip": 1
-            }  
+            },
+            {
+              "name": "The Eye of Our Enemy",
+              "image": "https://i.imgur.com/17s6aD0.png",
+              "pip": 3
+            } 
           ]
         },
         {
