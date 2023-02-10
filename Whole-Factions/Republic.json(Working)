@@ -734,7 +734,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"],
+              "faction": ["Republic"],
+              "unit": ["Clone Force 99", "Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -749,7 +750,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"],
+              "faction": ["Republic"],
+              "unit": ["Clone Force 99", "Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -764,7 +766,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"],
+              "faction": ["Republic"],
+              "unit": ["Clone Force 99", "Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -779,7 +782,8 @@
           "points": 35,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"],
+              "faction": ["Republic"],
+              "unit": ["Clone Force 99", "Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -794,7 +798,7 @@
           "points": 30,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers", "ARF Troopers (Strike Team)"]
             }
           },
           "mini": {
@@ -808,7 +812,7 @@
           "points": 26,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers", "ARF Troopers (Strike Team)"]
             }
           },
           "mini": {
