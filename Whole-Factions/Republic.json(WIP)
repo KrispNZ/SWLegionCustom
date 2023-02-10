@@ -96,23 +96,7 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1683750364035127510/89D5E03C721391A7CBC7930180396F3B14E5273F/"
             }
           ],
-          "commands": [
-            {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/qFFHa5x.png",
-              "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/ETBqfYJ.png",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/KxJvLYy.png",
-              "pip": 3
-            }
-          ]
+          "commands": []
         },
         {
           "name": "Clone Commander Bly",
@@ -134,23 +118,7 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071982/5FCC144D438DCCEFC8201406D8F766535857F20A/"
             }
           ],
-          "commands": [
-            {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/qFFHa5x.png",
-              "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/ETBqfYJ.png",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/KxJvLYy.png",
-              "pip": 3
-            }
-          ]
+          "commands": []
         },
         {
           "name": "Clone Commander Fox",
@@ -173,21 +141,6 @@
             }
           ],
           "commands": [
-            {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/qFFHa5x.png",
-              "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/ETBqfYJ.png",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/KxJvLYy.png",
-              "pip": 3
-            },
             {
               "name": "Set for Stun!",
               "image": "https://i.imgur.com/HGTvzzs.png",
@@ -227,21 +180,6 @@
           ],
           "commands": [
             {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/qFFHa5x.png",
-              "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/ETBqfYJ.png",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/KxJvLYy.png",
-              "pip": 3
-            },
-            {
               "name": "Fear of the Hunt",
               "image": "https://i.imgur.com/lB6f3e7.png",
               "pip": 2
@@ -278,26 +216,6 @@
               "name": "Pack Tactics",
               "image": "https://i.imgur.com/FDycShC.png",
               "pip": 2
-            },
-            {
-              "name": "More than a Soldier",
-              "image": "https://i.imgur.com/6mAjxmx.png",
-              "pip": 3
-            },
-            {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/qFFHa5x.png",
-              "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/ETBqfYJ.png",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/KxJvLYy.png",
-              "pip": 3
             }
           ]
         }
@@ -878,5 +796,23 @@
     
   },
   "battlefield": {},
-  "commands": {}
+  "commands": {
+    "Republic": [
+      {
+        "name": "Loyalty Means Everything",
+        "image": "https://i.imgur.com/qFFHa5x.png",
+        "pip": 1
+      },
+      {
+        "name": "Brothers",
+        "image": "https://i.imgur.com/ETBqfYJ.png",
+        "pip": 2
+      },
+      {
+        "name": "Strength of the Republic",
+        "image": "https://i.imgur.com/KxJvLYy.png",
+        "pip": 3
+      } 
+    ]
+  }
 }
