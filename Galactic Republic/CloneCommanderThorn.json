@@ -1,11 +1,11 @@
 {
   "units": {
     "Republic": {
-      "Commander": [
+      "Operative": [
         {
           "name": "Clone Commander Thorn",
           "title": "Courageous Commander of the Coruscant Guard",
-          "image": "https://i.imgur.com/bHGw7MK.png",
+          "image": "https://i.imgur.com/Tji7D2D.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 90,
@@ -24,19 +24,9 @@
           ],
           "commands": [
             {
-              "name": "Loyalty Means Everything",
-              "image": "https://i.imgur.com/dRuHzeO.jpeg",
+              "name": "Last Man Standing",
+              "image": "https://i.imgur.com/vIQucfM.png",
               "pip": 1
-            },
-            {
-              "name": "Brothers",
-              "image": "https://i.imgur.com/LVXPud9.jpg",
-              "pip": 2
-            },
-            {
-              "name": "Strength of the Republic",
-              "image": "https://i.imgur.com/OddLbyq.jpg",
-              "pip": 3
             }
           ]
         }
