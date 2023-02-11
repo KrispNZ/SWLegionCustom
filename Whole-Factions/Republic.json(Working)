@@ -560,8 +560,10 @@
           ]
         },
         {
-          "name": "ARF Troopers (Strike Team)",
-          "title": "Advanced Recon Soldiers of the Republic",
+          "name": "ARF Troopers",
+          "title": "Strike Team
+          "displayName": "ARF Troopers (Strike Team)",
+          "heavyWeaponTeam": true,
           "image": "https://i.imgur.com/qFsleBV.png",
           "size": "small",
           "type": "Clone Trooper",
@@ -750,7 +752,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99", "Clone Commandos"],
+              "unit": ["Clone Force 99"],
               "rank": ["Corps"]
             }
           },
@@ -766,7 +768,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99", "Clone Commandos"],
+              "unit": ["Clone Force 99"],
               "rank": ["Corps"]
             }
           },
@@ -782,7 +784,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99", "Clone Commandos"],
+              "unit": ["Clone Force 99"],
               "rank": ["Corps"]
             }
           },
@@ -798,7 +800,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99", "Clone Commandos"],
+              "unit": ["Clone Force 99"],
               "rank": ["Corps"]
             }
           },
@@ -813,7 +815,7 @@
           "points": 30,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers", "ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers"]
             }
           },
           "mini": {
@@ -827,7 +829,7 @@
           "points": 26,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers", "ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers"]
             }
           },
           "mini": {
