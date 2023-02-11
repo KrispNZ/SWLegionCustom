@@ -495,8 +495,9 @@
           ]
         },
         {
-          "name": "Clone Force 99",
+          "name": "Clone Commandos",
           "title": "The Bad Batch",
+          "displayName": "Bad Batch",
           "image": "https://i.imgur.com/9Khlxco.png",
           "size": "small",
           "type": "Clone Trooper",
@@ -653,7 +654,7 @@
           "points": 8,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"]
+              "unit": ["Clone Commandos"]
             }
           }
         }
@@ -670,7 +671,7 @@
           "points": 10,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"]
+              "unit": ["Clone Commandos"]
             }
           }
       },
@@ -680,7 +681,7 @@
           "points": 8,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"]
+              "unit": ["Clone Commandos"]
             }
           }
       }
@@ -697,7 +698,7 @@
           "points": 8,
           "restrictions": {
             "include": {
-              "unit": ["Clone Force 99, Clone Commandos"]
+              "unit": ["Clone Commandos"]
             }
           }
       }
@@ -752,7 +753,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99"],
+              "unit": ["Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -768,7 +769,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99"],
+              "unit": ["Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -784,7 +785,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99"],
+              "unit": ["Clone Commandos"],
               "rank": ["Corps"]
             }
           },
@@ -800,7 +801,7 @@
           "restrictions": {
             "include": {
               "faction": ["Republic"],
-              "unit": ["Clone Force 99"],
+              "unit": ["Clone Commandos"],
               "rank": ["Corps"]
             }
           },
