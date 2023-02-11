@@ -5,10 +5,10 @@
         {
           "name": "ARF Troopers",
           "title": "Advanced Recon Soldiers of the Republic",
-          "image": "https://i.imgur.com/YTD9jV1.png",
+          "image": "https://i.imgur.com/m6Hywfq.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 54,
+          "points": 60,
           "speed": 2,
           "upgrades": {
             "Heavy Weapon": 1,
@@ -40,7 +40,7 @@
           "title": "Strike Team",
           "displayName": "Arc Troopers (Strike Team)",
           "heavyWeaponTeam": true,
-          "image": "https://i.imgur.com/qFsleBV.png",
+          "image": "https://i.imgur.com/TI4OpsG.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 22,
