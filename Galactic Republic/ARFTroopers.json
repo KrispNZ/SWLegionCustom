@@ -36,8 +36,10 @@
           ]
         },
         {
-          "name": "ARF Troopers (Strike Team)",
-          "title": "Advanced Recon Soldiers of the Republic",
+          "name": "ARF Troopers",
+          "title": "Strike Team",
+          "displayName": "Arc Troopers (Strike Team)",
+          "heavyWeaponTeam": true,
           "image": "https://i.imgur.com/qFsleBV.png",
           "size": "small",
           "type": "Clone Trooper",
@@ -68,7 +70,7 @@
           "points": 30,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers"]
             }
           },
           "mini": {
@@ -82,7 +84,7 @@
           "points": 26,
           "restrictions": {
             "include": {
-              "unit": ["ARF Troopers, ARF Troopers (Strike Team)"]
+              "unit": ["ARF Troopers"]
             }
           },
           "mini": {
