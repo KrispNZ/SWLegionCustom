@@ -3,6 +3,10 @@
     "Republic": {
       "Commander": [
         {
+          "name": "Battleforce Rules",
+          "image": "https://i.imgur.com/jzgbrUo.png"
+        },
+        {
           "name": "Plo Koon",
           "title": "Wise Jedi Master",
           "image": "https://i.imgur.com/DhntUKe.png",
@@ -275,10 +279,125 @@
             }
           ]
         }
+      ],
+      "Heavy": [
+        {
+          "name": "AT-AP",
+          "title": "Self-Propelled Sniper Tank",
+          "image": "https://i.imgur.com/KHMjjQU.png",
+          "size": "epic",
+          "type": "Ground Vehicle",
+          "points": 170,
+          "speed": 1,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756243525814/22DBD5FF8C4A887FF7DBFD977F190A7192C1D4B7/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756243525957/D334BA41B51D1DD235E2A5ED14F1EEACC9CD9EEF/"
+            }
+          ]
+        },
+        {
+          "name": "LAAT/I Gunship",
+          "title": "Mobile Air Support",
+          "image": "https://i.imgur.com/hqJzat9.png",
+          "size": "epic",
+          "type": "Repulsor Vehicle",
+          "points": 165,
+          "speed": 2,
+          "upgrades": {
+            "Pilot": 1,
+            "Hardpoint": 2,
+            "Ordnance": 1,
+            "Comms": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943501740/E509E21CEB3321071E6F56B006F24C1D919B6F3B/"
+            }
+          ]
+        }
       ]
     }
   },
   "upgrades": {
+    "Pilot": [
+        {
+          "name": "Hawkeye",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747619367/B0EFDF7F817DC850C3A28D1CD885213958C2248E/",
+            "points": 10,
+            "restrictions": {
+              "include": {
+                "unit": ["LAAT/I Gunship"]
+            }
+          }
+        },
+        {
+          "name": "Veteran Gunner",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747586823/256792792FFE8D876759E9A894F76F489BFDE968/",
+          "points": 6,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AP"]
+            }
+          }
+        },
+        {
+          "name": "Oddball",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747618963/6FE86EFBC23C8FDFDB87FBE066C60CBD32FF1DFE/",
+            "points": 10,
+            "restrictions": {
+              "include": {
+                "unit": ["LAAT/I Gunship"]
+            }
+          }
+        }
+    ],
+    "Hardpoint": [
+      {
+        "name": "Ball Turrets",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747617309/E7A1C86302FE190A75A859B3405353D24B56AA93/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["LAAT/I Gunship"]
+            }
+          }
+      },
+      {
+        "name": "Dorsal Laser Cannon",
+          "image": "https://i.imgur.com/o9EAloc.png",
+          "points": 23,
+          "restrictions": {
+            "include": {
+              "unit": ["AT-AP"]
+            }
+          }
+      },
+      {
+        "name": "Sealed Blast Shields",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747617819/F41341A8EA3FDEBA78238EC8298691A0E2C5248C/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["LAAT/I Gunship"]
+            }
+          }
+      },
+      {
+        "name": "Wing Ball Turrets",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747616297/2753260BCF4BD591144C4D74769F5E982D4E9D10/",
+        "points": 14,
+        "restrictions": {
+          "include": {
+            "unit": ["LAAT/I Gunship"]
+            }
+          }
+      }
+    ],
     "Heavy Weapon": [
       {
           "name": "DC-15 Marksman",
