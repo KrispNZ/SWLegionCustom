@@ -912,6 +912,51 @@
     "Ordnance": [],
     "Personnel": [
       {
+        "name": "Sinker",
+          "image": "https://i.imgur.com/WzaedTW.png",
+          "points": 17,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125136/3A3DDA6900BDF649D5323FFD4A02842EC236B92C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+          }
+      },
+      {
+        "name": "Boost",
+          "image": "https://i.imgur.com/2rKySQV.png",
+          "points": 15,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+          }
+      },
+      {
+        "name": "Comet",
+          "image": "https://i.imgur.com/C3sCkt3.png",
+          "points": 13,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125419/32D53FD9D6A0702AE8EAA64C221B25459963FFFF/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+          }
+      },
+      {
         "name": "Paratrooper Medic",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747553122/09BE4CDAF6D1A40AED895C9DAC9B03EECA17E46A/",
           "points": 24,
