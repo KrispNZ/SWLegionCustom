@@ -1,0 +1,560 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Plo Koon",
+          "title": "Wise Jedi Master",
+          "image": "https://i.imgur.com/DhntUKe.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 170,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785236717873394134/94407058FBA842AD0FDCC0BBB8AB613EA9A739C2/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785236717873394267/272C1C9A8C15C36DC5C10DD62D5EFCEF9BFF4496/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Force Judgement",
+              "image": "https://i.imgur.com/RJs7ym9.png",
+              "pip": 1
+            },
+            {
+              "name": "I Don't Believe in Chance",
+              "image": "https://i.imgur.com/b4lHIA3.png",
+              "pip": 2
+            },
+            {
+              "name": "No One is Expendable",
+              "image": "https://i.imgur.com/Sp1lmI7.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander Wolffe",
+          "title": "Marshal Commander of the 104th",
+          "image": "https://i.imgur.com/tPTdOKK.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Command": 2,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893325674091/D4433015CC3242AE13105E50DB20DCD7B12224C9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071524/389C9E5597C2E28322E4F522FA16529AA71D49FA/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Close in for the Kill",
+              "image": "https://i.imgur.com/IEevo1A.png",
+              "pip": 1
+            },
+            {
+              "name": "Pack Tactics",
+              "image": "https://i.imgur.com/FDycShC.png",
+              "pip": 2
+            },
+            {
+              "name": "More than a Soldier",
+              "image": "https://i.imgur.com/RpAD5Hs.png",
+              "pip": 3
+            },
+            {
+              "name": "Loyalty Means Everything",
+              "image": "https://i.imgur.com/qFFHa5x.png",
+              "pip": 1
+            },
+            {
+              "name": "Brothers",
+              "image": "https://i.imgur.com/ETBqfYJ.png",
+              "pip": 2
+            },
+            {
+              "name": "Strength of the Republic",
+              "image": "https://i.imgur.com/KxJvLYy.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
+          "name": "Clone Commander",
+          "title": "Trained For Leadership",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790538/EBB9911B9EB9C0F817370266A8ACB8357BEB3919/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893325674091/D4433015CC3242AE13105E50DB20DCD7B12224C9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071524/389C9E5597C2E28322E4F522FA16529AA71D49FA/"
+            }
+          ]
+        }
+      ],
+      "Special Forces": [
+        {
+          "name": "ARF Troopers",
+          "title": "Advanced Recon Soldiers of the Republic",
+          "image": "https://i.imgur.com/sENVPg5.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281359696/A9FE8D723FB168EDAEDF1D1A5F7EA38646B5C152/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281385856/96D50C679BD5CF60C631A0CB77BC07E5DBA5BF1D/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281386643/15447BEEC20024EB26CE5CD48AAC9D9EEE724F44/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281388182/B383426041392864A4832077A3AB030BC4ADD6A5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            }
+          ]
+        },
+        {
+          "name": "ARF Troopers",
+          "title": "Strike Team",
+          "displayName": "Arc Troopers (Strike Team)",
+          "heavyWeaponTeam": true,
+          "image": "https://i.imgur.com/TI4OpsG.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 22,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [{
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281359696/A9FE8D723FB168EDAEDF1D1A5F7EA38646B5C152/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Phase I Clone Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790336/C2B0C8EB973E7D6657E288E5AFE9C3F00809461A/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 52,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125186/54DBEDC83FACC7E1068869E917207BB0A6FE4090/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125485/2421603729171EA04C38EDC0C75AAA604DBEA556/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125549/75FFDABBD11F811D83EA5A4CAEB239B9929FF56F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125620/86A34E6F46B994C647FB768F62311D456A985C8E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+            }
+          ]
+        },
+        {
+          "name": "Phase II Clone Troopers",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790299/B84917597F10DE241D7909430E91B5FC03248144/",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 62,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321070793/294DC7F7A6BE9E31AB2823745854EF8C31D3281A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321407636/9315381415E55B835F091392658CBFDED02249F3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321577529/3034903B0501BE08E398BCC7F0D735B308DA9377/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321405998/BF99DA12AC60F2548F73F5D0D001419BFBFA5CB1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+            }
+          ]
+        }
+      ],
+      "Support": [
+        {
+          "name": "BARC Speeder",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790145/DD6B7ACA36B88E28B4326E7AA96536230B87F01E/",
+          "size": "large",
+          "type": "Repulsor Vehicle",
+          "points": 55,
+          "speed": 3,
+          "upgrades": {
+            "Crew": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412083218847/B131F35C191011157EADF9C86B2B7CABAA3FC099/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1862817412083219663/051072BF8A9DBCE064605B6498D705826FDA1BC1/"
+            }
+          ]
+        },
+        {
+          "name": "AT-RT",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790101/7D591836DB5F16ED19FE2A28B55784950E1759CB/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1862817412088110265/AF7BE480C6C64DA2C584B3094D3555E69540CBFB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077085557/5F6321F7F5F38626ECBB4FA8988B40ECA0CB2535/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "upgrades": {
+    "Heavy Weapon": [
+      {
+          "name": "DC-15 Marksman",
+          "image": "https://i.imgur.com/7nVuHDg.png",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["ARF Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281389880/9C3538E361385DDB7858C06B57B3CFA08DA2A159/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+          }
+        },
+      {
+        "name": "Thermal Detonator Satchel",
+          "image": "https://i.imgur.com/jfTmo26.png",
+          "points": 26,
+          "restrictions": {
+            "include": {
+              "unit": ["ARF Troopers"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1922492377281399144/E1A292B1D9C5B721F4BD6C870F1DAC5BDDAF9650/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394076966220/B085A7DD04AFC5D03BFFD04A7DC879D40F3C81E2/"
+          }
+      },
+      {
+        "name": "DC-15 Phase I Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139741/18705CF14C8BD2D88CF1827FE171F64D919E03C6/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077124987/8246C5A63728F7150CDE2D8E8432FA2648FBDA3C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 26,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "DP-23 Phase I Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568140181/C7BE6B6A297BE993DDE8AB32151DB8E6240A2745/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125069/5ED11B727C08880EB3760207E0B35A1F1497E3E3/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 22,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "RPS-6 Phase I Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568145035/004176D5900A3EC760D76F2657A811F811377443/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125327/54D8CC98B57FDA928C06494204C025D242E666B9/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 21,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Z-6 Phase I Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568146663/29495FC4062EC1DD809CCED2F31F0ACF81C92C45/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125756/198960F2677665A3A5C79A8A789D46265EF23E01/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 23,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Phase II Mortar Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144436/3D8E7C0C4D7A837EEE925B65E044F1EF8B3388C4/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321578281/CBFA560559FE81326342AD0B65D2349447F882EB/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+        },
+        "points": 18,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Z-6 Phase II Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568146709/F3874CF8FD491DEF02AA37F322C61B51463D2ECD/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321579074/D5F10426146B81D46F02B027B9C4CC875FA6DA00/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+        },
+        "points": 27,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Clone Troopers"]
+          }
+        }
+      }
+    ],
+    "Personnel": [
+      {
+        "name": "Sinker",
+          "image": "https://i.imgur.com/WzaedTW.png",
+          "points": 17,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125136/3A3DDA6900BDF649D5323FFD4A02842EC236B92C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+          }
+      },
+      {
+        "name": "Boost",
+          "image": "https://i.imgur.com/2rKySQV.png",
+          "points": 15,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+          }
+      },
+      {
+        "name": "Comet",
+          "image": "https://i.imgur.com/C3sCkt3.png",
+          "points": 13,
+          "restrictions": {
+            "include": {
+            "faction": ["Republic"],
+            "rank": ["Corps"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125419/32D53FD9D6A0702AE8EAA64C221B25459963FFFF/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+          }
+      },
+      {
+        "name": "Phase I Clone Captain",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144246/21A589A6190BEF9C3355828DBE7769D925852B23/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125845/C44A3F16FDE1CC0034F936067E70369D09D9BF49/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "leader": true,
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Phase I Clone Specialist",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144315/9F73C154A39FAC78D16182FE4BA40C5CBFFE261F/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125419/32D53FD9D6A0702AE8EAA64C221B25459963FFFF/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 11,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Phase I Clone Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144353/1238774FBDEE0A8E0E02849601C850720C86F506/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125683/F1A9846B512DAF36BB905FF8BC3713FDB220B9E6/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase I Clone Troopers"]
+          }
+        }
+      },
+      {
+        "name": "Clone Comms Technician",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139301/BA6F9C1E1B03C96908FD244F7F17188E070E5CF0/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077124915/8276C5F8375FFD9F1DD21346B9CE4C32AB4D764E/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 12,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Clone Engineer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139332/EFBC734554388F0628F88FF6AA3C3E8AA078141C/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125136/3A3DDA6900BDF649D5323FFD4A02842EC236B92C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 18,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Clone Medic",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139361/BD135C31EA1FAE5CED684E0BAEA59F27C40A42B1/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125263/F3AE3E26971E1AC7F4A55E25693FA06413D2C85D/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126273/89EB56EDA904696FD8B353CEBDE75F6E545FF861/"
+        },
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Clone Commander",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568139272/747D9B51470E308061A8A4A21FBA5B28B2CEC1BB/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893325674091/D4433015CC3242AE13105E50DB20DCD7B12224C9/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077071524/389C9E5597C2E28322E4F522FA16529AA71D49FA/"
+        },
+        "leader": true,
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "type": ["Clone Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Phase II Clone Trooper",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1680393865568144398/18C969B5FB9B6031557CF11FE2397E6AD8955624/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893321406830/59DC907FEFEF65FBAF245A3B31A4251026FC93AA/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077056165/2629D90B132EA5B082A7F7E2A8232076A2F90C4F/"
+        },
+        "points": 13,
+        "restrictions": {
+          "include": {
+            "unit": ["Phase II Clone Troopers"]
+          }
+        }
+      }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
