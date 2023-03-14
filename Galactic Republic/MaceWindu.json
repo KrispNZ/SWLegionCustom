@@ -5,7 +5,7 @@
         {
           "name": "Mace Windu",
           "title": "Master Jedi",
-          "image": "https://i.imgur.com/3AymC1F.png",
+          "image": "https://i.imgur.com/hCOONUF.png",
           "size": "small",
           "type": "Trooper",
           "points": 195,
@@ -13,7 +13,7 @@
           "upgrades": {
             "Force": 2,
             "Command": 1,
-            "Training": 1
+            "Training": 2
           },
           "minis": [
             {
