@@ -852,6 +852,20 @@
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
           }
         },
+        {
+          "name": "Grenadier Paratrooper",
+          "image": "https://i.imgur.com/JBOBda4.png",
+          "points": 24,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Paratroopers"]
+            }
+          },
+          "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1752483394077125136/3A3DDA6900BDF649D5323FFD4A02842EC236B92C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077126202/C5E159D5F1C5D4036DAABFDA8F9DA70391E80BC6/"
+          }
+        },
       {
         "name": "RSP-6 Paratrooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747551248/7EB35E562D1685283C46BCC74678C8B0573F68FE/",
