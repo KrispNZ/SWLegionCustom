@@ -1,0 +1,61 @@
+{
+  "units": {
+    "Republic": {
+      "Operative": [
+        {
+          "name": "Crosshair",
+          "title": "",
+          "image": "https://i.imgur.com/8t1Msgc.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1
+          },
+          "minis": [
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599687/821D1F2549742194E17F8D3066CBA17EF56E4EA7/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Down the Center",
+              "image": "https://i.imgur.com/jX8Lp50.png",
+              "pip": 1
+            },
+            {
+              "name": "They are Traitors",
+              "image": "https://i.imgur.com/801nQhg.png",
+              "pip": 2
+            },
+            {
+              "name": "Good Soldiers",
+              "image": "https://i.imgur.com/vdvqpZP.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+    "Armament": [
+      {
+          "name": "773 Firepuncher Rifle",
+          "image": "https://i.imgur.com/MJ6Wpcl.png",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Crosshair"]
+            }
+          }
+        }
+    ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
