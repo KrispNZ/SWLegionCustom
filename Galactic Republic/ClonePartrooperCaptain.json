@@ -1,0 +1,33 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Clone Paratrooper Captain",
+          "title": "7th Sky Corps",
+          "image": "https://i.imgur.com/AHEucDm.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 55,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080678860/2036ADD5C8E5E57AA83B8D5067F373BB565E99A8/"
+            }
+          ],
+          "commands": []
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+}
