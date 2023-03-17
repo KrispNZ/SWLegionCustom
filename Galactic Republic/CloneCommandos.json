@@ -5,10 +5,10 @@
         {
           "name": "Clone Commandos",
           "title": "Republic Special Forces",
-          "image": "https://i.imgur.com/fIBrrVC.png",
+          "image": "https://i.imgur.com/EFejtOt.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 110,
+          "points": 140,
           "speed": 2,
           "upgrades": {
             "Training": 2,
@@ -45,6 +45,18 @@
           "name": "Priority Comms",
           "image": "https://i.imgur.com/jBSeJ3G.png",
           "points": 8,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+        }
+    ],
+    "Training": [
+        {
+          "name": "Cuy'Val Dar Training",
+          "image": "https://i.imgur.com/NqjvIJ5.png",
+          "points": 6,
           "restrictions": {
             "include": {
               "unit": ["Clone Commandos"]
