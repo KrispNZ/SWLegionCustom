@@ -151,6 +151,43 @@
           ]
         },
         {
+          "name": "Qui-Gon Jin",
+          "title": "Maverick Jedi Master",
+          "image": "https://i.imgur.com/BjPt8JD.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 160,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/777357228030156264/12F93F60CC26F1FDC2B577D4014787B7CAFBF9A1/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228030156398/F811CAE962A0BFE369544C0A96C251F5BF198B3A/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Loose Cannon",
+              "image": "https://i.imgur.com/cuAZ80g.png",
+              "pip": 1
+            },
+            {
+              "name": "Jedi Ambassadors",
+              "image": "https://i.imgur.com/eY07NkB.png",
+              "pip": 2
+            },
+            {
+              "name": "Mindful of the Living Force",
+              "image": "https://i.imgur.com/sUCFOxI.png",
+              "pip": 3
+            }
+          ]
+        },
+        {
           "name": "Clone Commander Bacara",
           "title": "Marshal Commander of the 21st",
           "image": "https://i.imgur.com/mktldO0.png",
@@ -323,6 +360,48 @@
               "pip": 3
             }
           ]
+        },
+        {
+          "name": "Clone Paratrooper Captain",
+          "title": "7th Sky Corps",
+          "image": "https://i.imgur.com/AHEucDm.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 55,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080678860/2036ADD5C8E5E57AA83B8D5067F373BB565E99A8/"
+            }
+          ],
+          "commands": []
+        },
+        {
+          "name": "Clone Captain",
+          "title": "2nd in Command",
+          "image": "https://i.imgur.com/Zw8kf1L.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 45,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/767228764785646423/F890985F1B31042E0BC10996930089A3A22BE5C5/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/767228764785647603/8F9ADBD1429C1AF247858C877548E15E5996F4A9/"
+            }
+          ],
+          "commands": []
         }
       ],
       "Operative": [
@@ -389,6 +468,42 @@
               "pip": 1
             }
           ]
+        },
+        {
+          "name": "Crosshair",
+          "title": "",
+          "image": "https://i.imgur.com/8t1Msgc.png",
+          "size": "small",
+          "type": "Clone Trooper",
+          "points": 105,
+          "speed": 2,
+          "upgrades": {
+            "Force": 2,
+            "Training": 1
+          },
+          "minis": [
+            {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1862800022592430001/E8900A21D919A12171C4A6F20C1B1DA29829E45D/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394077599687/821D1F2549742194E17F8D3066CBA17EF56E4EA7/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Down the Center",
+              "image": "https://i.imgur.com/jX8Lp50.png",
+              "pip": 1
+            },
+            {
+              "name": "They are Traitors",
+              "image": "https://i.imgur.com/801nQhg.png",
+              "pip": 2
+            },
+            {
+              "name": "Good Soldiers",
+              "image": "https://i.imgur.com/vdvqpZP.png",
+              "pip": 3
+            }
+          ]
         }
       ],
       "Corps": [
@@ -431,10 +546,10 @@
         {
           "name": "Clone Commandos",
           "title": "Republic Special Forces",
-          "image": "https://i.imgur.com/fIBrrVC.png",
+          "image": "https://i.imgur.com/EFejtOt.png",
           "size": "small",
           "type": "Clone Trooper",
-          "points": 110,
+          "points": 140,
           "speed": 2,
           "upgrades": {
             "Training": 2,
@@ -464,7 +579,7 @@
         {
           "name": "Clone Paratroopers",
           "title": "Airborn Soldiers of the Republic",
-          "image": "https://i.imgur.com/H2mak39.png",
+          "image": "https://i.imgur.com/fXOzbja.png",
           "size": "small",
           "type": "Clone Trooper",
           "points": 70,
@@ -607,10 +722,10 @@
         {
           "name": "LAAT/I Gunship",
           "title": "Mobile Air Support",
-          "image": "https://i.imgur.com/hqJzat9.png",
+          "image": "https://i.imgur.com/Z3vFjIX.png",
           "size": "epic",
           "type": "Repulsor Vehicle",
-          "points": 165,
+          "points": 175,
           "speed": 2,
           "upgrades": {
             "Pilot": 1,
@@ -644,7 +759,17 @@
               "unit": ["Clone Commandos"]
             }
           }
-      }
+      },
+      {
+          "name": "773 Firepuncher Rifle",
+          "image": "https://i.imgur.com/MJ6Wpcl.png",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Crosshair"]
+            }
+          }
+        }
     ],
     "Command": [],
     "Comms": [
@@ -663,7 +788,18 @@
     "Crew": [],
     "Flaw": [],
     "Force": [],
-    "Training": [],
+    "Training": [
+      {
+          "name": "Cuy'Val Dar Training",
+          "image": "https://i.imgur.com/NqjvIJ5.png",
+          "points": 6,
+          "restrictions": {
+            "include": {
+              "unit": ["Clone Commandos"]
+            }
+          }
+        }
+    ],
     "Gear": [
       {
         "name": "Repulsor Blast",
@@ -747,7 +883,7 @@
     ],
     "Heavy Weapon": [
        {
-          "name": "Crosshair",
+          "name": "Crosshair(upgrade)",
           "image": "https://i.imgur.com/EyA3XBZ.png",
           "points": 35,
           "restrictions": {
