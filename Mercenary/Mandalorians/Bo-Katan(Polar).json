@@ -189,6 +189,19 @@
             }
           }
       }
+     ],
+     "Gear": [
+       {
+        "name": "Bo-Katan's Combat Shield)",
+          "image": "https://i.imgur.com/eVWVUba.png",
+          "points": 5,
+          "restrictions": {
+            "include": {
+              "unit": ["Bo-Katan Kryze"]
+            }
+          }
+      }
+     
      ]
   },
   "battlefield": {},
