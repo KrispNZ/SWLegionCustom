@@ -1,0 +1,196 @@
+{
+  "units": {
+    "ShadowCollective": {
+      "Commander": [
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "https://i.imgur.com/ochtyON.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080668141/FEE2EBE5145920FEAA887D30C41A14975D440BEF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "For Mandalore",
+              "image": "https://i.imgur.com/kBRM6Yr.png",
+              "pip": 1
+            },
+            {
+              "name": "Generations Fought Proudly",
+              "image": "https://i.imgur.com/ZfPlTl1.png",
+              "pip": 2
+            },
+            {
+              "name": "This is Warm and We Will Win!",
+              "image": "https://i.imgur.com/OaxvYlZ.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    },
+    "Separatist": {
+      "Commander": [
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "https://i.imgur.com/ochtyON.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080668141/FEE2EBE5145920FEAA887D30C41A14975D440BEF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "https://i.imgur.com/aXsaeTA.png",
+              "pip": 1
+            },
+            {
+              "name": "Enemy of My Enemy is My Friend",
+              "image": "https://i.imgur.com/eVqbjwL.png",
+              "pip": 2
+            },
+            {
+              "name": "Commitment to Mandalore",
+              "image": "https://i.imgur.com/15cJVQO.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    },
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "https://i.imgur.com/ochtyON.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080668141/FEE2EBE5145920FEAA887D30C41A14975D440BEF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "https://i.imgur.com/aXsaeTA.png",
+              "pip": 1
+            },
+            {
+              "name": "Enemy of My Enemy is My Friend",
+              "image": "https://i.imgur.com/eVqbjwL.png",
+              "pip": 2
+            },
+            {
+              "name": "Commitment to Mandalore",
+              "image": "https://i.imgur.com/15cJVQO.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    },
+    "Rebel": {
+      "Commander": [
+        {
+          "name": "Bo-Katan Kryze",
+          "title": "The Cursed Heiress",
+          "image": "https://i.imgur.com/ochtyON.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2,
+            "Armament": 1,
+            "Flaw": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394080668141/FEE2EBE5145920FEAA887D30C41A14975D440BEF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "What is Rightfully Mine",
+              "image": "https://i.imgur.com/aXsaeTA.png",
+              "pip": 1
+            },
+            {
+              "name": "Enemy of My Enemy is My Friend",
+              "image": "https://i.imgur.com/eVqbjwL.png",
+              "pip": 2
+            },
+            {
+              "name": "Commitment to Mandalore",
+              "image": "https://i.imgur.com/15cJVQO.png",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {
+      "Flaw": [
+      {
+        "name": "A Cautionary Tale",
+        "image": "https://i.imgur.com/1zWTaxX.png",
+        "points": 0
+      }
+    ],
+     "Armament": [
+      {
+        "name": "The Darksaber(Bo-Katan)",
+          "image": "https://i.imgur.com/s2pq2Ew.png",
+          "points": 0,
+          "restrictions": {
+            "include": {
+              "unit": ["Bo-Katan Kryze"]
+            }
+          }
+      }
+     ]
+  },
+  "battlefield": {},
+  "commands": {}
+}
